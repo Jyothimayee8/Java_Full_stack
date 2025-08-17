@@ -1,0 +1,2 @@
+module Javaapp {
+}
