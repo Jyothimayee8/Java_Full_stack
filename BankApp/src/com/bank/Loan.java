@@ -22,5 +22,6 @@ public class Loan extends Customer{
 		l.getCustomerDetails();
 		l.getdetails();
 	}
+	
 
 }
