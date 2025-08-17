@@ -1,0 +1,3 @@
+com\amazon\App.class
+com\amazon\HibernateConfig.class
+com\amazon\Product.class
